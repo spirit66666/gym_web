@@ -53,10 +53,10 @@
 <button class="button" onclick="window.location.href='login_.jsp';">首页</button></a>
 
   <a href="#">
-<button class="button" onclick="window.location.href='second_page.jsp';">首页1</button></a>
+<button class="button" onclick="window.location.href='second_page.jsp';">预约</button></a>
 
   <a href="#">
-<button class="button" onclick="window.location.href='third_page.jsp';">首页2</button></a>
+<button class="button" onclick="window.location.href='third_page.jsp';">收藏</button></a>
  
  
     <input class="nav-search-input" type="text" autocomplete="off" 
