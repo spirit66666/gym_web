@@ -65,6 +65,6 @@
     placeholder="搜索" title="搜索">
   
 <input class="button"
- onclick="window.location.href='code.py';" value="返回登陆" style="float:right">
+ onclick="window.location.href='admin_login_.jsp';" value="返回登陆" style="float:right">
   
 </html>
