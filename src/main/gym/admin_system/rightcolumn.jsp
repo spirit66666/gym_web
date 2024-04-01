@@ -20,7 +20,7 @@
 }
 /* Add a card effect for articles */
 .card {
-  background-color: pink;
+  background-color: lightblue;
   padding: 20px;
   margin-top: 20px;
 }</style>

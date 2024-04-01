@@ -6,7 +6,7 @@
 .footer {
   padding: 20px;
   text-align: center;
-  background: pink;
+  background: lightblue;
   margin-top: 20px;
 }
 </style>
